@@ -1,0 +1,32 @@
+{
+  "grid_20m": {
+    "dt_years": 0.9796238244514106,
+    "n_steps": 5104,
+    "effective_area": 80000.0,
+    "max_flow_divergence": 4.9392916304167e-24,
+    "max_final_map_difference": 2.8381480086259785,
+    "center_flow": 140.08085959654852,
+    "center_no_flow": 140.41635388534624,
+    "delta": 0.3354942887977188
+  },
+  "grid_20m_dt_half": {
+    "dt_years": 0.4898119122257053,
+    "n_steps": 10208,
+    "effective_area": 80000.0,
+    "max_flow_divergence": 4.9392916304167e-24,
+    "max_final_map_difference": 2.837959536248775,
+    "center_flow": 140.08083131886227,
+    "center_no_flow": 140.41635441333068,
+    "delta": 0.3355230944684138
+  },
+  "grid_10m": {
+    "dt_years": 0.24491795248591722,
+    "n_steps": 20415,
+    "effective_area": 80000.0,
+    "max_flow_divergence": 6.049533334437201e-23,
+    "max_final_map_difference": 2.830294550905549,
+    "center_flow": 140.1311736722427,
+    "center_no_flow": 140.41334732151378,
+    "delta": 0.2821736492710727
+  }
+}
