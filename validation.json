@@ -1,0 +1,21 @@
+{
+  "language": "English",
+  "checks": [
+    "All required support files are present",
+    "Sections 1\u20137 are separate and ordered",
+    "Sections 1\u20135 each have a following executable code cell",
+    "Section 3 prepares the flow, conduction operator, and time-step estimate",
+    "Section 4 runs both cases with run_pair(p)",
+    "Project and verification notebooks executed without errors",
+    "Six saved notebook figures present",
+    "Display-math delimiters are balanced",
+    "English source/output language scan passed",
+    "Python syntax and JavaScript syntax checked",
+    "ZIP members matched against local source files"
+  ],
+  "limitations": [
+    "Direct browser interaction has not been verified",
+    "GitHub Pages has not been published",
+    "Intrusion grid sensitivity remains documented"
+  ]
+}
