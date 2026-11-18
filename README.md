@@ -164,7 +164,9 @@ Flow is fixed and independent of temperature. Water and material properties are 
 4. Open the URL shown by the `deploy` job. Test a new simulation, parameter changes, animation, the saved example, and CSV download in the browser.
 5. Add the application URL near the top of the repository README. Provide the repository link and application URL according to the instructor's latest submission instructions.
 
-**Current status:** Python calculations, executed notebook outputs, and JavaScript syntax have been checked. This package has not been published to the user's GitHub account, and no public application URL has been verified. Direct browser testing remains incomplete because the preview browser could not reach the development session's local server. JavaScript syntax checks do not replace a browser test of Pyodide.
+**Current status:** The application is deployed on GitHub Pages. Basic browser functionality has been tested: loading the saved example, running a new 100-year simulation, displaying results, playing the temperature animation, switching between flow cases, and downloading the CSV summary.
+
+These functional checks do not establish scientific accuracy for every parameter combination. Numerical verification and grid sensitivity are discussed in `Verification.ipynb`.
 
 ## References and external code
 
