@@ -2,6 +2,14 @@
 
 **Riski Basrin — GPGN 536, Fall 2026**
 
+## Run the application
+
+[Open the interactive simulation](https://riskibasrin-cell.github.io/intrusion-cooling-2D/)
+
+The application runs Python directly in the browser using Pyodide in a Web Worker. No backend server is required.
+
+Choose the model parameters and click **Run both cases**, or click **View saved example** to inspect the default results.
+
 A hot intrusion → heat spreads into the surrounding rock → water carries heat → the temperature pattern and cooling change.
 
 I want to understand how groundwater flow changes intrusion cooling and heat spreading in the surrounding rock. I compare two cases, with and without flow, using the same initial temperature and thermal properties.
