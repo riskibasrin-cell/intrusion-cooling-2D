@@ -16,4 +16,4 @@ Both notebooks were executed successfully, with six saved figures in total. Supp
 
 The solver functions remain in `simulation.py`, as required for reuse by the application and verification. Code cells in the project notebook call those shared functions. They are not missing implementations.
 
-Direct browser testing and GitHub Pages publication remain outstanding. File completeness does not mean the application has already been deployed.
+The application is deployed on GitHub Pages. Basic browser testing has been completed, including fresh simulations, case switching, temperature animation, and CSV export. Numerical limitations and grid sensitivity remain documented in `Verification.ipynb`.
