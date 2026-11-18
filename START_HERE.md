@@ -26,12 +26,20 @@ At 5,000 years, the 20 m grid gives a center temperature of approximately 140.08
 
 These results replace the earlier oversized-grid geometry results. Both notebooks explain the interpretation and its limits.
 
+## Current status
+
+The application is deployed on GitHub Pages:
+
+[Open the interactive simulation](https://riskibasrin-cell.github.io/intrusion-cooling-2D/)
+
+The saved example, fresh simulations, case switching, temperature animation, and CSV download have been tested.
+
+Both notebooks have been rerun successfully from the GitHub repository. The small center-temperature difference remains grid-sensitive, as explained in `Verification.ipynb`.
+
 ## What remains before submission?
 
-1. Upload the project contents to GitHub and enable GitHub Pages through GitHub Actions. See the README.
-2. Test the browser application, including a new simulation and the animation. Direct browser testing has not been completed because the development preview browser could not reach the session's local server. Python outputs and JavaScript syntax have been checked.
-3. Study the simulation code and verification notebook for an independent presentation.
+1. Study the simulation code and verification notebook.
+2. Practice explaining the physics, numerical methods, results, and limitations independently.
+3. Prepare the software demonstration and submit the required links.
 
-This session is not connected to a GitHub account. There is no verified public application URL yet, so this package alone is not a complete final submission.
-
-**No additional physical processes or new scenarios are needed to complete this version.**
+No additional physical processes are required for the current project scope.
