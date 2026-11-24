@@ -1,6 +1,6 @@
 # 2D Modeling of Magmatic Intrusion Cooling with Groundwater Flow
 
-**Riski Basrin — GPGN 536, Fall 2026**
+**Riski Basrin — 10973593 - GPGN 536**
 
 ## Run the application
 
